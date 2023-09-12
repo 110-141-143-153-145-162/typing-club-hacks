@@ -28,3 +28,5 @@ Also, to unlock all the levels you have to guess the last level number . Let me 
 Now, you'll be able to skip around to diffrent levels .
 
 Also, to complete any level use auto type .
+
+To use auto type in the search bar delete everything, then type in     "javascript:"     then copy the section below ------------------- in the auto type file, after putting in "javascript:" . Dont actully type in the " " .
