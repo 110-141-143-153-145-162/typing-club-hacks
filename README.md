@@ -25,3 +25,4 @@ Last, complete the level . Then you have 469 levels unlocked .
 
 Also, to unlock all the levels you have to guess the last level number . Let me know if you figure it out !
 
+Now, you'll be able to skip around to diffrent levels .
