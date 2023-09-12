@@ -17,11 +17,11 @@ Then go to the search bar .
 
  ![Screenshot 2023-09-11 7 46 20 PM](https://github.com/110-141-143-153-145-162/Typing-Club/assets/144743203/d8071cc2-b7a8-415f-a6f0-257d8d03d7ac)
 
-Now, change the 116 to ex (500)                                                                                                       
+Now, change the 116 to example (500) and press enter .                                                                                                       
 
 ![Screenshot 2023-09-11 8 28 09 PM](https://github.com/110-141-143-153-145-162/Typing-Club/assets/144743203/6c1f78f6-a140-45ee-b5b7-5f4f236dc046)
 
-Last, complete the level then you have 469 levels unlocked .
+Last, complete the level . Then you have 469 levels unlocked .
 
 Also, to unlock all the levels you have to guess the last level number . Let me know if you figure it out !
 
