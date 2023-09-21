@@ -1,4 +1,4 @@
-# Typing-Club
+# Typing Club Hacks
 Want to unlock all the levels ? This lets you unlock all Typing Club levels and use auto type to complete levels for you . # Typing Club Hacks
 
 First, login to Typing Club .
